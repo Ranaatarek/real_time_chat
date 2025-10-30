@@ -1,16 +1,26 @@
-# realtime
+💬 Flutter Real-Time Chat App (with Voice & Image Support)
 
-A new Flutter project.
+A Flutter real-time chat application built using Firebase Realtime Database for instant messaging and Firebase Storage for image and voice uploads.
+The app includes real-time updates, image sharing, and voice messages with waveform visualization 🎙️📸
 
-## Getting Started
+🚀 Overview
 
-This project is a starting point for a Flutter application.
+This project demonstrates how to build a modern real-time chat app in Flutter, integrating:
 
-A few resources to get you started if this is your first Flutter project:
+Firebase Realtime Database for instant messaging
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Firebase Storage for image and audio file uploads
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Audio recording & playback with waveform animations
+
+Permission handling for microphone, storage, and camera
+
+⚙️ Features
+
+✅ Real-time text messaging
+✅ Send & receive images
+✅ Record and play voice messages
+✅ Animated waveform visualization
+✅ Auto-scroll to latest messages
+✅ Timestamps for messages
+✅ Clean, responsive Flutter UI
