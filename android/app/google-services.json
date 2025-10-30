@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "624613342263",
+    "firebase_url": "https://realtime-4bfff-default-rtdb.firebaseio.com",
+    "project_id": "realtime-4bfff",
+    "storage_bucket": "realtime-4bfff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624613342263:android:792a93fae7be3b234e93b2",
+        "android_client_info": {
+          "package_name": "com.example.realtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAe4P5Uz-yMlfD7zL_sGRP6wPP4CL8NFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624613342263:android:c40cd86a6420df364e93b2",
+        "android_client_info": {
+          "package_name": "example.realtime.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAe4P5Uz-yMlfD7zL_sGRP6wPP4CL8NFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
